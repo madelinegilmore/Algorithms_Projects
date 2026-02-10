@@ -1,0 +1,1 @@
+Create a command-line 20 Questions game that guesses what the user is thinking of by asking up to 20 yes/no questions, using information from the provided dataset of constellations (full_constellation_data_set.csv).
